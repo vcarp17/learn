@@ -6,7 +6,7 @@ width: 40%;
 }
 header {
     grid-area: header;
-    color:whitesmoke;
+    color:white;
     padding: 10px;
     font-family: 'Gill Sans';
     font-size: 200%;
